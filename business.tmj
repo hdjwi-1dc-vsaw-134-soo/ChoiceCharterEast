@@ -3602,7 +3602,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"business-winter.png"
+         "value":"cc-business.png"
         }, 
         {
          "name":"mapName",

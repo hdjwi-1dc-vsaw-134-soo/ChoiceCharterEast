@@ -3051,7 +3051,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"health-sciences-winter.png"
+         "value":"cc-health-sciences.png"
         }, 
         {
          "name":"mapName",

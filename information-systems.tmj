@@ -2818,7 +2818,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"information-sys-winter.png"
+         "value":"cc-information-systems.png"
         }, 
         {
          "name":"mapName",
