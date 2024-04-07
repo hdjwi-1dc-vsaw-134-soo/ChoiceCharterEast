@@ -18,11 +18,11 @@ There are three virtual campuses in this repository.
 
 Map name: Choice Charter School Business.
 
-![map](cc-admin-health-sciences-readme.png)
+![map](cc-health-sciences-readme.png)
 
 Map name: Choice Charter School Health Sciences.
 
-![map](cc-admin-information-systems-readme.png)
+![map](cc-information-systems-readme.png)
 
 Map name: Choice Charter School Information Systems.
 
