@@ -2370,8 +2370,8 @@
                  "type":"area",
                  "visible":true,
                  "width":258.422096984272,
-                 "x":3935.21415379164,
-                 "y":1024.98448168839
+                 "x":3935.6561622782,
+                 "y":1024.54247320183
                 }, 
                 {
                  "height":94.6617008069522,
@@ -2399,6 +2399,33 @@
                  "width":126.474239602731,
                  "x":3905.77157045314,
                  "y":1442.42706393544
+                }, 
+                {
+                 "height":190.823974540311,
+                 "id":52,
+                 "name":"fire",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.2
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"\/fire.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":258.465264497878,
+                 "x":3936.14042291372,
+                 "y":1023.97450495049
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3406,7 +3433,7 @@
          "y":0
         }],
  "nextlayerid":24,
- "nextobjectid":52,
+ "nextobjectid":53,
  "orientation":"orthogonal",
  "properties":[
         {
